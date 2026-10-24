@@ -11,13 +11,13 @@
   <p><strong>Full-Stack Developer | Agentic AI Developer | Next.js Developer</strong></p>
 
   <!-- Social Media & Contact Badges -->
-  <a href="https://www.linkedin.com/in/imranhosen-web/" target="_blank">
+  <a href="https://www.linkedin.com/in/imranhosen-dev/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://x.com/progomoncollege" target="_blank">
+  <a href="https://x.com/imranhosendev" target="_blank">
     <img src="https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="X / Twitter" />
   </a>
-  <a href="https://www.youtube.com/@Imrannazirmim" target="_blank">
+  <a href="https://www.youtube.com/@ImranHosenDev" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
   </a>
   <a href="https://www.facebook.com/profile.php?id=100087437500804" target="_blank">
